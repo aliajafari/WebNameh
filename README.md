@@ -9,5 +9,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 در این راهنما تلاش می شود تمامی منابع و راهنمایی لازم به 
 
 
-##Resources
-###پیدا کردن نمونه کد
+## Resources
+
+### پیدا کردن نمونه کد
+برای پیدا کردن نمونه کد آماده و یا پیاده سازی المان های UI مورد نیاز
+
+CodePen(http://www.codepen.io)
