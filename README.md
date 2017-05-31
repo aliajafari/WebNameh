@@ -2,7 +2,8 @@
 Web Nameh: a handbook for Persian web designers &amp; developers.
 
 <div dir="rtl">
-**این نسخه یک پیش نویس در حال توسعه است.**
+
+**این نسخه یک پیش نویس در حال توسعه است**
 
 سلام، به وب نامه خوش آمدید.
 وب نامه راهنمای همراه طراحان و توسعه دهندگان وب به زبان پارسی است.
@@ -54,7 +55,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 ## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
 
-####فرآیند طراحی Wireframe
+### Wireframe فرآیند طراحی با 
 
 ابزارهای لازم
 * کیت وایرفریم
