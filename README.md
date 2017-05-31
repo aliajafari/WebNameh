@@ -60,7 +60,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
-*CSS
+**CSS
   * CSS Positioning
     * [CSS Positioning 101 | A List Apart](https://alistapart.com/article/css-positioning-101)
     * [Positioning in web design | Froont Open Design Blog](http://blog.froont.com/positioning-in-web-design)
