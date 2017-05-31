@@ -45,14 +45,13 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 منابع دستچین شده برای یادگیری حوزه های مختلف با تاکید بر کیفیت و صحیح بودن
 
 *برخی منابع ممکن است با هم همپوشانی داشته باشند.*
-<div dir="ltr">
+
 *CSS
   * CSS Positioning
     * [CSS Positioning 101 | A List Apart](https://alistapart.com/article/css-positioning-101)
     * [Positioning in web design | Froont Open Design Blog](http://blog.froont.com/positioning-in-web-design)
     * [CSS Positioning Explained By Building An Ice Cream Sundae | freeCodeCamp ](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
     
-<div dir="rtl">
 ## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
 
 ### Wireframe فرآیند طراحی با 
