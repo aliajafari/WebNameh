@@ -1,4 +1,6 @@
-# webnameh (Draft)
+<div dir="rtl">
+
+# Web Nameh (Initial Draft)
 Web Nameh: a handbook for Persian web designers &amp; developers.
 
 سلام، به وب نامه خوش آمدید.
