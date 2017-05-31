@@ -61,7 +61,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
-**CSS
+**CSS**
 
   * CSS Positioning
     * [CSS Positioning 101 | A List Apart](https://alistapart.com/article/css-positioning-101)
@@ -79,6 +79,5 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * تایپ فیس و تایپوگرافی
 
 *حتما در مورد المان ها بحث و گفتگو صورت پذیرفته شده باشد.*
-=======
 
 ## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
