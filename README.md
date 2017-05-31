@@ -1,4 +1,4 @@
-# webnameh (Draft)
+# Web Nameh (Draft)
 Web Nameh: a handbook for Persian web designers &amp; developers.
 
 سلام، به وب نامه خوش آمدید.
@@ -9,19 +9,19 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 در این راهنما تلاش می شود تمامی منابع و راهنمایی لازم به 
 
 
-## Resources
+*این نسخه به عنوان پیش نویس کتاب و وب سایت وب نامه است و تمامی مشارکت ها در پروژه اینجا انجام می شود.*
+
+## منابع (Resources)
 
 ### پیدا کردن نمونه کد
 برای پیدا کردن نمونه کد آماده و یا پیاده سازی المان های UI مورد نیاز
 
 [CodePen](http://www.codepen.io)
+
 منبعی بی نظیری از کد با کیفیت بالا، امکانات عالی و ...
 
 [BootSnippt](http://bootsnipp.com)
 
 یک منبع کامل از المان های UI ساخته شده با فریمورک بوت استرپ 
+
 اخطار: کدها ممکن است بی کیفیت باشد برای استفاده حتما دقیق بررسی شود.
-
-
-
-
