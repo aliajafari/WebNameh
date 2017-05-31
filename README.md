@@ -14,4 +14,14 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ### پیدا کردن نمونه کد
 برای پیدا کردن نمونه کد آماده و یا پیاده سازی المان های UI مورد نیاز
 
-CodePen(http://www.codepen.io)
+[CodePen](http://www.codepen.io)
+منبعی بی نظیری از کد با کیفیت بالا، امکانات عالی و ...
+
+[BootSnippt](http://bootsnipp.com)
+
+یک منبع کامل از المان های UI ساخته شده با فریمورک بوت استرپ 
+اخطار: کدها ممکن است بی کیفیت باشد برای استفاده حتما دقیق بررسی شود.
+
+
+
+
