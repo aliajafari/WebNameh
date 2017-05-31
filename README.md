@@ -81,7 +81,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
     * [Positioning in web design | Froont Open Design Blog](http://blog.froont.com/positioning-in-web-design)
     * [CSS Positioning Explained By Building An Ice Cream Sundae | freeCodeCamp ](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
     
-## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
+<div dir="rtl">
+
+## یادداشت های یک طراح و توسعه دهنده آماتور
 
 ### Wireframe فرآیند طراحی با 
 
@@ -93,4 +95,4 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 *حتما در مورد المان ها بحث و گفتگو صورت پذیرفته شده باشد.*
 
-## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
+</div>
