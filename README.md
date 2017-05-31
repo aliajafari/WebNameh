@@ -22,6 +22,8 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * یادگیری
 * یادداشت های یک طراح و توسعه دهنده آماتور
 
+</div>
+
 ## راهکارها (Solutions)
 
 ## فرآیندها (Processes)
@@ -45,6 +47,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 منابع دستچین شده برای یادگیری حوزه های مختلف با تاکید بر کیفیت و صحیح بودن
 
 *برخی منابع ممکن است با هم همپوشانی داشته باشند.*
+
 
 *CSS
   * CSS Positioning
