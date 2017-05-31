@@ -34,11 +34,13 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 یک طراح وب باید به چه چیزهایی آگاهی داشته باشد؟
  * اسکچ و طراحی با دست (Sketch)
+ * تئوری رنگ ها (Color Theory)
 
 یک توسعه دهنده سمت کاربر باید به چه چیزهایی آگاهی داشته باشد؟
  * کارایی و عملکرد (Performance)
  * طراحی وب واکنش گرا (Responsive Web Design)
  * طراحی سازگار با موبایل (Mobile-Friendly)
+ * ویرایش تصویر (Image Editing)
  
 هر طراح و توسعه دهنده ای باید به چه چیزهایی آگاهی داشته باشد.
  * تفکر طراحی (Design Thinking)
@@ -59,7 +61,11 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 </div>
 
 ## منابع (Resources)
-### پیدا کردن نمونه کد
+
+### منابع آنالیز
+[SmartSupp](https://www.smartsupp.com)
+
+#### پیدا کردن نمونه کد
 برای پیدا کردن نمونه کد آماده و یا پیاده سازی المان های UI مورد نیاز
 
 [CodePen](http://www.codepen.io)
@@ -83,6 +89,14 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
+**JavaScript**
+
+**AngularJS (1.x)**
+
+**MEAN Stack**
+
+**Laravel**
+
 **CSS**
 
   * CSS Positioning
@@ -90,9 +104,13 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
     * [Positioning in web design | Froont Open Design Blog](http://blog.froont.com/positioning-in-web-design)
     * [CSS Positioning Explained By Building An Ice Cream Sundae | freeCodeCamp ](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
     
+**Performance**
+
 <div dir="rtl">
 
 ## یادداشت های یک طراح و توسعه دهنده آماتور
+
+### فرآیند طراحی با دست و اسکچ زدن 
 
 ### Wireframe فرآیند طراحی با 
 
