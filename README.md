@@ -1,6 +1,7 @@
-# Web Nameh (Draft)
+# Web Nameh (Initial Draft)
 Web Nameh: a handbook for Persian web designers &amp; developers.
 
+<div dir="rtl">
 سلام، به وب نامه خوش آمدید.
 
 وب نامه راهنمای همراه طراحان و توسعه دهندگان وب به زبان پارسی است.
