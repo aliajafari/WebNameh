@@ -50,6 +50,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 اخطار: کدها ممکن است بی کیفیت باشد برای استفاده حتما دقیق بررسی شود.
 
+
 <div dir="rtl">
 
 ## یادگیری (Learning)
@@ -78,3 +79,6 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * تایپ فیس و تایپوگرافی
 
 *حتما در مورد المان ها بحث و گفتگو صورت پذیرفته شده باشد.*
+=======
+
+## یادداشت های یک طراح و توسعه دهنده آماتور (Diaries of a newbie designer & developer)
