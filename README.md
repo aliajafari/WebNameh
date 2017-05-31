@@ -25,11 +25,15 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 </div>
 
 <div dir="rtl">
+
 ## راهکارها (Solutions)
+
 </div>
 
 <div dir="rtl">
+
 ## فرآیندها (Processes)
+
 </div>
 
 ## منابع (Resources)
@@ -47,11 +51,13 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 اخطار: کدها ممکن است بی کیفیت باشد برای استفاده حتما دقیق بررسی شود.
 
 <div dir="rtl">
+
 ## یادگیری (Learning)
 
 منابع دستچین شده برای یادگیری حوزه های مختلف با تاکید بر کیفیت و صحیح بودن
 
 *برخی منابع ممکن است با هم همپوشانی داشته باشند.*
+
 </div>
 
 *CSS
