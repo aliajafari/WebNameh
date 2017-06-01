@@ -60,6 +60,8 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
+<div dir="rtl">
+
 ## منابع (Resources)
 
 ### منابع آنالیز
@@ -78,6 +80,12 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 اخطار: کدها ممکن است بی کیفیت باشد برای استفاده حتما دقیق بررسی شود.
 
+
+#### مقایسه
+
+* [CSS Frameworks- comparing Bootstrap alternatives](http://www.monolinea.com/css-frameworks-comparison)
+
+</div>
 
 <div dir="rtl">
 
