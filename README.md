@@ -52,6 +52,32 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 ## راهکارها (Solutions)
 
+### CSS
+
+** CSS (Centering)
+* [How do I vertically center text with CSS? | StackOverflow Discussion](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css)
+* [Vertical align anything with just 3 lines of CSS | Z63](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css)
+* [Can you vertically center in CSS? | Usama Tahir via Medium](https://medium.com/@AmJustSam/can-you-vertically-center-in-css-aaaa373cd460)
+* [Centering in the Unknown | CSS-Tricks](https://css-tricks.com/centering-in-the-unknown)
+* [CSS Vertical Centering – Everything You Need To Know | Web Designer Wall](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
+
+
+### UI Patterns & UI Elements
+** Media Obejct (Flag Object)
+* [THE MEDIA OBJECT SAVES HUNDREDS OF LINES OF CODE | Stubbornella](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code)
+* [The Media Object, A Bunch of Ways | CSS-Tricks](https://csswizardry.com/2013/05/the-flag-object)
+* [The flag object | CSS Wizardry](https://csswizardry.com/2013/05/the-flag-object)
+* [Media Object | Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/media-object)
+
+### Responsive 
+** Responsive Images
+* [Responsive images | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+* [Responsive Images in CSS | CSS-Tricks](https://css-tricks.com/responsive-images-css)
+* [Responsive Images Done Right: A Guide To picture tag And srcset | Smashing Magazine](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
+
+
+
+
 </div>
 
 <div dir="rtl">
