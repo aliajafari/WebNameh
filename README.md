@@ -111,6 +111,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 * [CSS Frameworks- comparing Bootstrap alternatives](http://www.monolinea.com/css-frameworks-comparison)
 
+### امنیت
+* [Web Developer Security Checklist | by Simple Security via Medium](http://www.monolinea.com/css-frameworks-comparison)
+
 </div>
 
 <div dir="rtl">
