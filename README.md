@@ -114,6 +114,15 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 <div dir="rtl">
 
+## مراجع (References)
+
+### CSS
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+
+</div>
+
+<div dir="rtl">
+
 ## منابع (Resources)
 
 ### منابع طراحی
