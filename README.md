@@ -21,6 +21,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * فرآیندها
 * منابع
 * یادگیری
+* کتابخانه ها و ابزارها
 * یادداشت های یک طراح و توسعه دهنده آماتور
 
 </div>
@@ -76,6 +77,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * [Responsive Images Done Right: A Guide To picture tag And srcset | Smashing Magazine](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 
 
+### JavaScript
+** DOM
+* [DOMContentLoaded vs jQuery.ready vs onload, How To Decide When Your Code Should Run | CSS-Tricks](https://eager.io/blog/how-to-decide-when-your-code-should-run)
 
 
 </div>
@@ -111,6 +115,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 * [CSS Frameworks- comparing Bootstrap alternatives](http://www.monolinea.com/css-frameworks-comparison)
 
+### امنیت
+* [Web Developer Security Checklist | by Simple Security via Medium](http://www.monolinea.com/css-frameworks-comparison)
+
 </div>
 
 <div dir="rtl">
@@ -139,6 +146,17 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
     * [CSS Positioning Explained By Building An Ice Cream Sundae | freeCodeCamp ](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
     
 **Performance**
+
+## کتابخانه ها (Libraries)
+
+### JavaScript 
+
+### jQuery 
+* [Succinct](https://github.com/micjamking/Succinct)
+پلاگین کم حجم جی کوئری برای حذف متن های بلند
+
+### ابزارهای ساخت (Build Tools)
+* [BlendIt](https://github.com/vigetlabs/blendid)
 
 <div dir="rtl">
 
