@@ -64,13 +64,13 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 <div dir="rtl">
 
-** CSS Architecture - معماری سی اس اس
+#### CSS Architecture - معماری سی اس اس
 
 </div>
 
 * [Writing modular CSS (Multiple Part) | Zell Liew](https://zellwk.com/blog/css-architecture-1)
 
-** CSS Centering
+#### CSS Centering
 * [How do I vertically center text with CSS? | StackOverflow Discussion](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css)
 * [Vertical align anything with just 3 lines of CSS | Z63](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css)
 * [Can you vertically center in CSS? | Usama Tahir via Medium](https://medium.com/@AmJustSam/can-you-vertically-center-in-css-aaaa373cd460)
@@ -97,10 +97,12 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 
 ### JavaScript
-** DOM
+* DOM
 * [DOMContentLoaded vs jQuery.ready vs onload, How To Decide When Your Code Should Run | CSS-Tricks](https://eager.io/blog/how-to-decide-when-your-code-should-run)
 نحوه صحیح لود کردن جاوا اسکریپت در صفحه
 
+* Problem/Solution
+ * [Change an element's class with JavaScript | Stackoverflow Discussion](https://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript)
 
 </div>
 
@@ -181,7 +183,8 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 **Laravel**
 
 **CSS**
-
+  * CSS Grid
+    * [Learn CSS Grid](http://learncssgrid.com)
   * CSS Positioning
     * [CSS Positioning 101 | A List Apart](https://alistapart.com/article/css-positioning-101)
     * [Positioning in web design | Froont Open Design Blog](http://blog.froont.com/positioning-in-web-design)
