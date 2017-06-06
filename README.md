@@ -158,6 +158,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 #### توسعه پوسته (Theme Development)
 فریمورک ها و تم های آماده توسعه
 * [Timber](https://www.upstatement.com/timber)
+* [Gordon Brander's Learn](https://github.com/gordonbrander/learn)
 
 </div>
 
@@ -171,8 +172,11 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
-** Web Design (General)
+** Design (General)
 * [Web Design 101 Ebook | Webflow](https://ebooks.webflow.com/ebook/web-design-101)
+
+** Development (General)
+* [Edabit](https://edabit.com/explore)
 
 **JavaScript**
 
