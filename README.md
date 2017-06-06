@@ -182,6 +182,12 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 </div>
 
+** Roadmaps / Study Palns
+* [Roadmap to becoming a web developer in 2017 | by Kamran Ahmedse via Github](https://github.com/kamranahmedse/developer-roadmap)
+* [The Practical Guide to Becoming a Professional Web Developer | freeCodeCamp](https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90)
+* [A Study Plan To Cure JavaScript Fatigue | freeCodeCamp by Sacha Greif ](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
+
+
 ** Design (General)
 * [Web Design 101 Ebook | Webflow](https://ebooks.webflow.com/ebook/web-design-101)
 
