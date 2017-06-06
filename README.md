@@ -58,6 +58,8 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 ## راهکارها (Solutions)
 
+</div>
+
 ### CSS
 
 ** CSS (Centering)
@@ -103,6 +105,8 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ### منابع طراحی
 
 #### مدها و گرایش ها (Trends)
+
+</div>
 
 نگاهی به ترندهای طراحی اخیر
 * [6 Web Design Style Predictions for 2017 | Envato](https://envato.com/blog/6-web-design-style-predictions-2017)
