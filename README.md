@@ -63,8 +63,11 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ### CSS
 
 <div dir="rtl">
+
 ** CSS Architecture - معماری سی اس اس
+
 </div>
+
 * [Writing modular CSS (Multiple Part) | Zell Liew](https://zellwk.com/blog/css-architecture-1)
 
 ** CSS Centering
