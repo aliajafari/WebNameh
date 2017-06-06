@@ -80,6 +80,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ### JavaScript
 ** DOM
 * [DOMContentLoaded vs jQuery.ready vs onload, How To Decide When Your Code Should Run | CSS-Tricks](https://eager.io/blog/how-to-decide-when-your-code-should-run)
+نحوه صحیح لود کردن جاوا اسکریپت در صفحه
 
 
 </div>
@@ -93,6 +94,17 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 <div dir="rtl">
 
 ## منابع (Resources)
+
+### منابع طراحی
+
+#### مدها و گرایش ها (Trends)
+
+نگاهی به ترندهای طراحی اخیر
+* [6 Web Design Style Predictions for 2017 | Envato](https://envato.com/blog/6-web-design-style-predictions-2017)
+* [18 web design trends for 2017 | Webflow](https://webflow.com/blog/18-web-design-trends-for-2017)
+* [Design Trends in 2016 & What to Expect in 2017 | Web Designer Wall](http://webdesignerwall.com/trends/design-trends-2016-expect-2017)
+* [2017 Trendy Google Fonts Combinations](http://fonts.greatsimple.io)
+
 
 ### منابع آنالیز
 [SmartSupp](https://www.smartsupp.com)
@@ -147,16 +159,26 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
     
 **Performance**
 
-## کتابخانه ها (Libraries)
+<div dir="rtl">
+
+## کتابخانه ها و ابزارها
+
+</div>
 
 ### JavaScript 
 
-### jQuery 
+#### jQuery 
 * [Succinct](https://github.com/micjamking/Succinct)
 پلاگین کم حجم جی کوئری برای حذف متن های بلند
 
 ### ابزارهای ساخت (Build Tools)
 * [BlendIt](https://github.com/vigetlabs/blendid)
+* [Pingy CLI](https://pin.gy/cli) 
+
+
+### تایپوگرافی (Typography)
+* [Archtype](http://www.archetypeapp.com)
+انتخاب و ترکیب فونت های گوگل
 
 <div dir="rtl">
 
