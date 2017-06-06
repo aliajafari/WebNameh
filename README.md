@@ -22,7 +22,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ## فهرست
 
 * شروع
-* راهکارها
+* راه حل ها
 * فرآیندها
 * منابع
 * یادگیری
@@ -56,18 +56,27 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 <div dir="rtl">
 
-## راهکارها (Solutions)
+## راه حل ها (Solutions)
 
 </div>
 
 ### CSS
 
-** CSS (Centering)
+<div dir="rtl">
+** CSS Architecture - معماری سی اس اس
+</div>
+* [Writing modular CSS (Multiple Part) | Zell Liew](https://zellwk.com/blog/css-architecture-1)
+
+** CSS Centering
 * [How do I vertically center text with CSS? | StackOverflow Discussion](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css)
 * [Vertical align anything with just 3 lines of CSS | Z63](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css)
 * [Can you vertically center in CSS? | Usama Tahir via Medium](https://medium.com/@AmJustSam/can-you-vertically-center-in-css-aaaa373cd460)
 * [Centering in the Unknown | CSS-Tricks](https://css-tricks.com/centering-in-the-unknown)
 * [CSS Vertical Centering – Everything You Need To Know | Web Designer Wall](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
+
+** Problem/Solution
+* [Fluid Width Equal Height Columns | CSS-Tricks](https://css-tricks.com/fluid-width-equal-height-columns)
+* [How to Style a HTML file upload button in Pure CSS | GeniusCarrier](http://geniuscarrier.com/how-to-style-a-html-file-upload-button-in-pure-css)
 
 
 ### UI Patterns & UI Elements
@@ -139,6 +148,12 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 ### امنیت
 * [Web Developer Security Checklist | by Simple Security via Medium](http://www.monolinea.com/css-frameworks-comparison)
 
+### Wordpress (وردپرس)
+
+#### توسعه پوسته (Theme Development)
+فریمورک ها و تم های آماده توسعه
+* [Timber](https://www.upstatement.com/timber)
+
 </div>
 
 <div dir="rtl">
@@ -150,6 +165,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 *برخی منابع ممکن است با هم همپوشانی داشته باشند.*
 
 </div>
+
+** Web Design (General)
+* [Web Design 101 Ebook | Webflow](https://ebooks.webflow.com/ebook/web-design-101)
 
 **JavaScript**
 
