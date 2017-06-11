@@ -237,12 +237,24 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 
 ## یادداشت های یک طراح و توسعه دهنده آماتور
 
+### چگونه کار کرد؟
+1. سخت ترین کار در اولین فرصت - بالاترین صسطح انرژِی
+
+1. Kick-Off
+2. Sketch
+
+
+Wordpress [Full]
+Wireframe [UX]
+Performance [Full]
+
 ### فرآیند طراحی با دست و اسکچ زدن 
 
 ### Wireframe فرآیند طراحی با 
 
 ابزارهای لازم
-* کیت وایرفریم
+* Grid - Icon - Typeface - Content - Placeholder :کیت وایرفریم
+* Fidelity Approach
 * گرید طراحی
 * آیکون
 * تایپ فیس و تایپوگرافی
