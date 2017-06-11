@@ -243,6 +243,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 1. Kick-Off
 2. Sketch
 
+همیشه پروژه را به WBS بشکنید
+زمان بندی کنید
+Divide & Conquer
 
 Wordpress [Full]
 Wireframe [UX]
@@ -274,5 +277,10 @@ Performance [Full]
 * تحویل بدهید
 * تحویل بگیرید
 
+
+### تجارب کاری
+از انجام پروژه های چالش برانگیز و بزرگ نترسید خیلی مشکل نیستند.
+خودتان را همیشه به چند نفر قوی متصل نگه دارید تا در صورت بروز مشکل با آن ها تعامل کنید.
+برای خودتان حتماً پروژه جانبی داشته باشید.
 
 </div>
