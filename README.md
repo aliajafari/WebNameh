@@ -82,6 +82,18 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * [DOMContentLoaded vs jQuery.ready vs onload, How To Decide When Your Code Should Run | CSS-Tricks](https://eager.io/blog/how-to-decide-when-your-code-should-run)
 
 
+### Front-End Solutions:
+
+*Presentation
+
+[Reveal.js](https://github.com/hakimel/reveal.js)
+
+
+### Icons
+
+[Noun Project](https://thenounproject.com)
+
+
 </div>
 
 <div dir="rtl">
