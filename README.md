@@ -223,6 +223,9 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 #### jQuery 
 * [Succinct](https://github.com/micjamking/Succinct)
 پلاگین کم حجم جی کوئری برای حذف متن های بلند
+* [SimpleBar](https://github.com/Grsmto/simplebar)
+پلاگین کم حجم و ساده جی کوئری برای ایجاد اسکرول بارهای زیبا
+
 
 ### ابزارهای ساخت (Build Tools)
 * [BlendIt](https://github.com/vigetlabs/blendid)
