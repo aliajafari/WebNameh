@@ -225,6 +225,7 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 پلاگین کم حجم جی کوئری برای حذف متن های بلند
 * [SimpleBar](https://github.com/Grsmto/simplebar)
 پلاگین کم حجم و ساده جی کوئری برای ایجاد اسکرول بارهای زیبا
+* [FlipClock.js](http://flipclockjs.com) | پلاگین جی کوئری کم حجم، برای ایجاد ساعت، کانت داون و تایمر با قابلیت شخصی سازی بالا
 
 
 ### ابزارهای ساخت (Build Tools)
