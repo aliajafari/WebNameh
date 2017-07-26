@@ -237,6 +237,12 @@ Web Nameh: a handbook for Persian web designers &amp; developers.
 * [Archtype](http://www.archetypeapp.com)
 انتخاب و ترکیب فونت های گوگل
 
+
+### اسلایدر (Carousel)
+* [Sequence.js](http://www.sequencejs.com)
+
+
+
 <div dir="rtl">
 
 ## یادداشت های یک طراح و توسعه دهنده آماتور
